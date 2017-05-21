@@ -18,6 +18,7 @@
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
     
+    //
     /*set colors*/
     NSMutableArray * colorArray=[[NSMutableArray alloc] init];
     NSMutableArray * color1Array=[[NSMutableArray alloc] init];
